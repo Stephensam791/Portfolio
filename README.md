@@ -1,4 +1,4 @@
-PROJECT NAME: HEALTHCARE ANALYTICS
+PROJECT NAME: HEALTHCARE ANALYTICS 
 
 •	Conducted a Comprehensive Analysis of Hospital Revenue Data to identify trends in Total Discharge, Patient Days, and Net Patient Revenue.
 
